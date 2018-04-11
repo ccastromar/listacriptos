@@ -1,0 +1,16 @@
+{
+  "name": "listacriptos",
+  "version": "1.0.0",
+  "description": "Cotización de las Top 3 criptomonedas",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron app.js"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.8.3"
+  },
+  "dependencies": {
+    "request": "latest"
+  }
+}
