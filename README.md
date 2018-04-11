@@ -5,6 +5,7 @@ Ejemplo sencillo de [Electron](http://electronjs.org) que muestra la cotización
 ## Para arrancar la app
 
 - Instalar [Node LTS](https://nodejs.org)
+- Instalar ElectronJS
 - Clonar este repositorio
 - `cd listacriptos`
 - `npm install` para instalar las dependencias
